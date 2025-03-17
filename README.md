@@ -5,7 +5,7 @@ This PowerShell script performs a complete network diagnostic test, including:
 - Port status checks (TCP)  
 - DNS resolution tests  
 - Gateway reachability tests  
-- (Optional) Speed test using `Invoke-WebRequest`  
+- Speed testing (OPTIONAL)
 
 
 ## Features
